@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New propositions from the souldiery under the command of His Excellency Sir Thomas Fairfax; concerning the preservation of His Majesties royall person, the liberty of the subject, and the discipline of the church of England. Also, His Majesties propositions for a safe and well-grounded peace together with his Majesties coming to Newmarket (being guarded by two regiments of horse) and severall quæries propounded, touching the independent government.</title>
+            <author>Rishton, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92110</idno>
+            <idno type="STC">Wing R2315</idno>
+            <idno type="STC">Thomason E392_12</idno>
+            <idno type="STC">ESTC R201565</idno>
+            <idno type="EEBO-CITATION">99862065</idno>
+            <idno type="PROQUEST">99862065</idno>
+            <idno type="VID">114214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114214)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E392[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New propositions from the souldiery under the command of His Excellency Sir Thomas Fairfax; concerning the preservation of His Majesties royall person, the liberty of the subject, and the discipline of the church of England. Also, His Majesties propositions for a safe and well-grounded peace together with his Majesties coming to Newmarket (being guarded by two regiments of horse) and severall quæries propounded, touching the independent government.</title>
+                  <author>Rishton, Robert.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Rushton,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Iune 11. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: Newmarket June 10. 1647. R. Rushton.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114214:1" rendition="simple:additions"/>
+            <p>NEW PROPOSITIONS FROM The Souldiery under the Command of His Excellency Sir <hi>Thomas
+Fairfax;</hi> concerning the pre<g ref="char:EOLhyphen"/>ſervation of His Majeſties Royall Perſon the Li<g ref="char:EOLhyphen"/>berty of the
+Subject, and the Diſcipline of the Church of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>ALSO,</hi> His Majeſties <hi>Propoſitions</hi> for a ſafe and well-grounded Peace
+together with his Majeſties coming to <hi>Newmar<g ref="char:EOLhyphen"/>ket</hi> (being guarded by two Regiments of
+Horſe) and ſeverall Quaeries propounded, touching the <hi>Independent Government.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for E. Ruſhton, <hi>Iune</hi> 11. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114214:2"/>
+            <pb facs="tcp:114214:2"/>
+            <head>HIS MAJESTIES PROPOSITIONS To the Honourable Houſes of Parliament, aſ<g ref="char:EOLhyphen"/>ſembled at
+<hi>Weſtminſter,</hi> concerning the ſpeedy ſetling of a firme and la<g ref="char:EOLhyphen"/>ſting peace in all
+his Maje<g ref="char:EOLhyphen"/>ſties Dominions.</head>
+            <p>HIs Majeſty having taken into ſerious conſideration the calamities of this
+di<g ref="char:EOLhyphen"/>ſtreſſed Kingdome, and the great and weari<g ref="char:EOLhyphen"/>ſome Burden which thouſand and thouſands
+<pb facs="tcp:114214:3"/>
+of his Majeſties loyall ſubjects hath deeply and unexpreſſably groaned under, occaſioned
+by the late unhappy war, within the bowels of this Kingdome, His Majeſty hath there<g ref="char:EOLhyphen"/>fore further
+declared, to the high and hono<g ref="char:EOLhyphen"/>rable Court of Parliament aſſembled at
+<hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> his great willingneſſe, to comply with both his ſaid Houſes, to
+the end, a firme and laſting peace may be ſetled within all His Majeſties Realmes and
+Dominions, and that it may be ſpeedily effected, and brought to a period, His Majeſty doth
+declare, as followeth:</p>
+            <div type="declaration">
+               <p>FIrſt, that Hee will freely and willingly give His Royall Aſſent, for the confirming of
+the Govern<g ref="char:EOLhyphen"/>ment and Diſcipline, now eſtabliſhed within the king<g ref="char:EOLhyphen"/>dome of England, during the
+time ſet downe by the two Houſe, deſiring that His Majeſtie and His Hou<g ref="char:EOLhyphen"/>ſhold be not
+hindered from that ſorme of Gods Ser<g ref="char:EOLhyphen"/>vice. Deſiring alſo, that a free conſultation and
+debate may bee had by a competent number of Divines ap<g ref="char:EOLhyphen"/>pointed by his Majeſtie and both Houſes,
+whereby it may be determined, how the Church ſhall be gover<g ref="char:EOLhyphen"/>ned, after the expiration of the
+ſaid time appointed, &amp;c.</p>
+               <p>Secondly Touching the Covenant, His Majeſtie doth declare, that He is not yet therein
+ſatisfied, and
+<pb facs="tcp:114214:3"/>
+deſires to reſpite his particular Anſwer thereunto, un<g ref="char:EOLhyphen"/>till his comming to London,
+&amp;c.</p>
+               <p>Thirdly, that his Majeſty will give his conſent to the Act for the due obſervation of the
+Lords Day, for the ſuppreſſing of Innovations, &amp;c.</p>
+               <p>Fourthly, That an Act of Oblivion may be paſt, His Majeſty conceiving it the beſt bond of
+Peace, and that after inteſtine troubles, the wiſdome of this and other Kingdomes hath
+uſually and happily in all Ages granted generall pardons, whereby the numerous diſ<g ref="char:EOLhyphen"/>contentments
+of many Perſons and Families other<g ref="char:EOLhyphen"/>wiſe expoſed to ruine, might not become ſewell to new
+diſorders, or ſeedes to future troubles.</p>
+               <p>His Majeſty therefore deſires, that his two Houſes of Parliament would ſeriouſly
+deſcend into theſe con<g ref="char:EOLhyphen"/>ſiderations, and likewiſe tenderly look upon his condi<g ref="char:EOLhyphen"/>tion herein,
+and the perpetuall diſhonour that muſt ce ve to him, if he ſhall thus abondon ſo many
+perſons of condition and fortune that have engaged themſelvs with &amp; for him, out of a
+ſeaſe of duty, and propounds as a very acceptable teſtimony of their affection to<g ref="char:EOLhyphen"/>wards
+Him.</p>
+               <p>Theſe, and divers other particulars, have beene lately communicated to both Houſes of
+Parliament; but ſor brevities ſake, I ſhall conclude with what I have alrea<g ref="char:EOLunhyphen"/>dy inſiſted
+upon.</p>
+               <p>In the next place I ſhall (briefly) intimate unto you the ſence of the Army, concerning the
+diſpoſall of his Majeſties perſon, and the proceedings of the Souldie tie thereupon,
+VIZ.</p>
+            </div>
+            <div type="letter">
+               <pb facs="tcp:114214:4"/>
+               <opener>
+                  <salute>Worthy Sir,</salute>
+               </opener>
+               <p>TO give you the prrticalars of the ſtate of the army, ſince my laſt, it is thus: I find
+the Souldiers to have many things to preſent this day, thoſe which are moſt ge<g ref="char:EOLhyphen"/>nerall
+amongſt the Regiments, are theſe which I have ſent you here incloſed.</p>
+               <p>The Kings Majeſty hath no deſire to goe back to <hi>Holmby,</hi> but either (ſo far as I
+can learn) to go to <hi>London,</hi> or be hereabouts: His Majeſty hath had ſome diſcourſe
+about In<g ref="char:EOLhyphen"/>dependants (as ſome call them) &amp; ſome que<g ref="char:EOLhyphen"/>ries were made what they would have, or
+whether they would have any government, which his Majeſty thought they would not have admitted
+of:</p>
+               <p>The Commiſſioners are come from the Parliament, two Lords, and four Commoners who are going
+to communicate their Meſ<g ref="char:EOLhyphen"/>ſage to the army at a generall Randezvonze, for their receivin
+whereof, the ſouldiers are in great expectation.</p>
+               <p>But before their meeting, the Generall called a Councell of warre, and the Officers received
+Inſtructions, for the more orderly carriage of the buſineſſe.</p>
+               <p>
+                  <pb facs="tcp:114214:4"/>The Commiſſioners are received with much reſpect
+and honour, and I perceive a great reſpect had towards them. God grant, that ſuch a compoſure
+may be made, as may ſettle this poore diſtracted Kingdome in peace.</p>
+               <p>The Kings Majeſty is now gone to Newmarket, be ing guarded by two Regiments of horſe,
+commanded by Colonell Whalley, for Hee hath often declared, his unwillingneſſe to go to Holmby,
+unleſſe by com<g ref="char:EOLhyphen"/>pulſion conſtrained to it. There was great preparati<g ref="char:EOLhyphen"/>ons made by divers of
+the Cantabrigians, who expect<g ref="char:EOLhyphen"/>ed his Majeſties coming that way, there was hundred of Bone-ſires
+made, and great junketings by the ma<g ref="char:EOLhyphen"/>lignant Party, but at the laſt, their tryumphant mitth were
+turned into a mournfull dittic, who hearing that his Majeſty were gone another way, immediatly
+be<g ref="char:EOLhyphen"/>took themſelves to the Town, bewayling each other.</p>
+            </div>
+            <div type="proposition">
+               <head>PROPOSITIONS.</head>
+               <p>1. THat the Parl. do ſpeedily ſend down ſome monies for their preſent
+ſub<g ref="char:EOLhyphen"/>ſiſtance, for keeping of the Army in good or<g ref="char:EOLhyphen"/>der. 2. That his Majeſties perſon may be
+ſtil ſecured from danger, and all deſignes and at<g ref="char:EOLhyphen"/>tempts prevented for the raiſing of a new
+war in this Kingdome. 3. That a ſafe and well grounded peace may be ſetled through the
+<pb facs="tcp:114214:5"/>
+whole Kingdome. 4. That the liberties of the people may be cleared, and their perſons &amp;
+eſtates ſecured by a ſafe and firme peace, ac<g ref="char:EOLhyphen"/>cording to the many Ordinances and
+Decla<g ref="char:EOLhyphen"/>rations, by which the Army was invited ſo engage in the late warre, 5. That all things may
+concuree to a chearfull and unanimous disbanding of the whole Army together. 6. That no prejudicato
+opinion may be had of the Army, to have any purpoſe to oppoſe the ſetling of Preibytery. 6.
+That the army may be believed, that they do not deſire to have the <hi>Independant
+Government</hi> ſet up to up hold a licentiouſneſſe in Religion. 8. That none be incouraged
+in the great affaires of State, to advance any particular party or in<g ref="char:EOLhyphen"/>tereſt whatſoever, but
+that the great matters of the Kingdome, be wholly leſt to the wiſ<g ref="char:EOLhyphen"/>dome of the Parliament, 9.
+That Juſtice may be done. 10. That all ſuch who have ſerved the parliament faithfully, may be
+protected for the ſame.</p>
+               <closer>
+                  <salute>Vale,</salute>
+                  <signed>Yours R. Ruſhton.</signed>
+                  <dateline>Newmarket <date>June 10. 1647.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
